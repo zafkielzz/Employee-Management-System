@@ -23,5 +23,35 @@ Dự án sử dụng **Material UI (MUI)** để xây dựng giao diện, **Axio
 ---
 
 ##  Cách chạy dự án
+1. Clone repo về máy:
+   ```bash
+   git clone https://github.com/your-username/employee-management.git
+   cd employee-management
+   
+---
+2. Cài đặt dependencies:
+   ```bash
+   npm install   
+---
 
+3. Chạy project:
+   ```bash
+   npm start 
+---
+##  Mock API (JSON Server)
 
+1. Cài JSON Server (nếu chưa có):  
+   ```bash
+   npm install -g json-server
+---
+
+ 
+2.Chạy API với file db.json (dứng dụng để port 3000)
+   ```bash
+   json-server --watch db.json --port 3000
+```
+---
+3.Endpoint sẽ ở:
+  ```bash
+    http://localhost:3000/employees
+```
