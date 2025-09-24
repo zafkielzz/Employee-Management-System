@@ -15,7 +15,7 @@ Dự án sử dụng **Material UI (MUI)** để xây dựng giao diện, **Axio
 
 ---
 
-## 🛠️ Công nghệ sử dụng
+##  Công nghệ sử dụng
 - [React](https://react.dev/)  
 - [Material UI (MUI)](https://mui.com/)  
 - [Axios](https://axios-http.com/)  
@@ -55,3 +55,4 @@ Dự án sử dụng **Material UI (MUI)** để xây dựng giao diện, **Axio
   ```bash
     http://localhost:3000/employees
 ```
+
